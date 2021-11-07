@@ -1,0 +1,15 @@
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.deps.json
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.json
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.runtimeconfig.dev.json
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csprojAssemblyReference.cache
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfoInputs.cache
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfo.cs
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CoreCompileInputs.cache
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.genruntimeconfig.cache
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.dll
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\bin\Debug\netcoreapp3.1\DAL.DO.pdb
+C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CopyComplete

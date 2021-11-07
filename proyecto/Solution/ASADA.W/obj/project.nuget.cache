@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pbVYVSVFx6O57peQlpXvRL4ByffSfPTXfYHa2zdlAlrhp11x1P5oOIABcKlXPLbyFhje7Gwr5tU32C9YVkGj7A==",
+  "dgSpecHash": "8FDl1oA1TOMvPnV57lQzfk9Z0wZdrjSFx0pye8Ufw7MjUF7jEY6Xd5t4g53JvCfu4PzSz55qHoLCeIRe7KXVSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
+  "projectFilePath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.20\\microsoft.aspnetcore.jsonpatch.3.1.20.nupkg.sha512",

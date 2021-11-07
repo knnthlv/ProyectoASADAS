@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj": {}
+    "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj": {
+    "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
+        "projectUniqueName": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
         "projectName": "ASADA.W",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
+        "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\proyecto\\Solution\\ASADA.W\\obj\\",
+        "outputPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
