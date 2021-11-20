@@ -3,7 +3,6 @@ C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\bin\Debug\netcoreapp3.1\DAL
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.runtimeconfig.dev.json
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.dll
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\bin\Debug\netcoreapp3.1\DAL.DO.pdb
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csprojAssemblyReference.cache
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfoInputs.cache
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.AssemblyInfo.cs
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csproj.CoreCompileInputs.cache

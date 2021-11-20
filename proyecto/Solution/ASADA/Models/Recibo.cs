@@ -9,7 +9,7 @@ namespace ASADA.Models
     {
         public Recibo()
         {
-            Comprobante = new HashSet<Comprobante>();
+            //Comprobante = new HashSet<Comprobante>();
         }
 
         public int IdRecibo { get; set; }
@@ -24,6 +24,6 @@ namespace ASADA.Models
         public virtual Usuario CedulaNavigation { get; set; }
         public virtual Estado IdEstadoNavigation { get; set; }
         public virtual Medidor IdMedidorNavigation { get; set; }
-        public virtual ICollection<Comprobante> Comprobante { get; set; }
+        //public virtual ICollection<Comprobante> Comprobante { get; set; }
     }
 }

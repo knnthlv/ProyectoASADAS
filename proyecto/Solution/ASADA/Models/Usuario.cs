@@ -9,10 +9,10 @@ namespace ASADA.Models
     {
         public Usuario()
         {
-            Comprobante = new HashSet<Comprobante>();
-            Medidor = new HashSet<Medidor>();
-            Recibo = new HashSet<Recibo>();
-            Tarjeta = new HashSet<Tarjeta>();
+            //Comprobante = new HashSet<Comprobante>();
+            //Medidor = new HashSet<Medidor>();
+            //Recibo = new HashSet<Recibo>();
+            //Tarjeta = new HashSet<Tarjeta>();
         }
 
         public string Cedula { get; set; }
@@ -25,9 +25,9 @@ namespace ASADA.Models
         public int IdUsuario { get; set; }
 
         public virtual TipoUsuario IdUsuarioNavigation { get; set; }
-        public virtual ICollection<Comprobante> Comprobante { get; set; }
-        public virtual ICollection<Medidor> Medidor { get; set; }
-        public virtual ICollection<Recibo> Recibo { get; set; }
-        public virtual ICollection<Tarjeta> Tarjeta { get; set; }
+        //public virtual ICollection<Comprobante> Comprobante { get; set; }
+        //public virtual ICollection<Medidor> Medidor { get; set; }
+        //public virtual ICollection<Recibo> Recibo { get; set; }
+        //public virtual ICollection<Tarjeta> Tarjeta { get; set; }
     }
 }

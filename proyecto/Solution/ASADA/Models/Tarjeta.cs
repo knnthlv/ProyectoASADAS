@@ -9,7 +9,7 @@ namespace ASADA.Models
     {
         public Tarjeta()
         {
-            Comprobante = new HashSet<Comprobante>();
+            //Comprobante = new HashSet<Comprobante>();
         }
 
         public string NumeroTarjeta { get; set; }
@@ -21,6 +21,6 @@ namespace ASADA.Models
 
         public virtual Usuario CedulaNavigation { get; set; }
         public virtual Marca IdMarcaNavigation { get; set; }
-        public virtual ICollection<Comprobante> Comprobante { get; set; }
+        //public virtual ICollection<Comprobante> Comprobante { get; set; }
     }
 }

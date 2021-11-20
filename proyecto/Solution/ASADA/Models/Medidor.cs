@@ -9,7 +9,7 @@ namespace ASADA.Models
     {
         public Medidor()
         {
-            Recibo = new HashSet<Recibo>();
+            //Recibo = new HashSet<Recibo>();
         }
 
         public int IdMedidor { get; set; }
@@ -17,6 +17,6 @@ namespace ASADA.Models
         public string Cedula { get; set; }
 
         public virtual Usuario CedulaNavigation { get; set; }
-        public virtual ICollection<Recibo> Recibo { get; set; }
+        //public virtual ICollection<Recibo> Recibo { get; set; }
     }
 }
