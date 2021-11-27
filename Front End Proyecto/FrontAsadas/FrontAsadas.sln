@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wizard", "Wizard\Wizard.csproj", "{F715FDCF-9B6F-427A-BB6A-0DE6C8E99BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsadasFront.API", "AsadasFront.API\AsadasFront.API.csproj", "{DE553425-5F18-4951-B262-67D80FCBFB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F715FDCF-9B6F-427A-BB6A-0DE6C8E99BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F715FDCF-9B6F-427A-BB6A-0DE6C8E99BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F715FDCF-9B6F-427A-BB6A-0DE6C8E99BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F715FDCF-9B6F-427A-BB6A-0DE6C8E99BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE553425-5F18-4951-B262-67D80FCBFB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE553425-5F18-4951-B262-67D80FCBFB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE553425-5F18-4951-B262-67D80FCBFB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE553425-5F18-4951-B262-67D80FCBFB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B798F8-6888-4E95-814E-E768594F1DA0}
+	EndGlobalSection
+EndGlobal
