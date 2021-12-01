@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\FrontAsadas\\AsadasFront.API\\AsadasFront.API.csproj",
+      "projectUniqueName": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\AsadasFront.API\\AsadasFront.API.csproj",
       "projectName": "AsadasFront.API",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\FrontAsadas\\AsadasFront.API\\AsadasFront.API.csproj",
+      "projectPath": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\AsadasFront.API\\AsadasFront.API.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\FrontAsadas\\AsadasFront.API\\obj\\",
+      "outputPath": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\AsadasFront.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8481,11 +8481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\FrontAsadas\\Wizard\\Wizard.csproj",
+      "projectUniqueName": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj",
       "projectName": "Wizard",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\FrontAsadas\\Wizard\\Wizard.csproj",
+      "projectPath": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\FrontAsadas\\Wizard\\obj\\",
+      "outputPath": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\Wizard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

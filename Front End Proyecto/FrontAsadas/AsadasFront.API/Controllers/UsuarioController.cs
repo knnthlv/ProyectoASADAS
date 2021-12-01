@@ -13,7 +13,7 @@ namespace AsadasFront.API.Controllers
 {
     public class UsuarioController : Controller
     {
-        UsuariosServices servicios = new UsuariosServices();
+        TipoUsuariosServices servicios = new TipoUsuariosServices();
         public UsuarioController()
         {
 

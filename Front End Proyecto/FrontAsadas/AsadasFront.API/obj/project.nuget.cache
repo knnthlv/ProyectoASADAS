@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ng/2xWAfCT1uZJbgsyo+SenW+uW8cgOWbD+CwgzYGQuxlSupY+4n4A8ZrxnltZYn68kcCeFYp6A+99X8NPkFww==",
+  "dgSpecHash": "qo/eoEFZNZ7JTsOTPwm3+BF48AgffSIUtd6P2QVrHUTO0Vk8xJjjMfBjkAK8fav1zpRMcjNexGgl/cPCbr3Kcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\FrontAsadas\\AsadasFront.API\\AsadasFront.API.csproj",
+  "projectFilePath": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\AsadasFront.API\\AsadasFront.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
