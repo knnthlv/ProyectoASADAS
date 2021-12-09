@@ -15,6 +15,6 @@
 * Avería: https://asadas-api.portal.azure-api.net/docs/services/averias/operations/post-id-averia
 * Marca: 
 
-##Carpetas Principales
+## Carpetas Principales
 * Carpeta "proyecto/Solution" contiene todo el código relacionado al backend
 * Carpeta "Front End Proyecto/FrontAsadas" contiene todo el código equivalente al front end
