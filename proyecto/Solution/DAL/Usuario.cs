@@ -48,11 +48,17 @@ namespace DAL
         {
             return repo.GetOneByIdAsyncString(id);
         }
+          public Task<data.Usuario> GetOneByIdAsyncStringLogin(string correo, string password)
+        {
+            return repo.GetOneByIdAsyncStringLogin(correo,password);
+        }
 
         public data.Usuario GetOneByIdString(string id)
         {
             return repo.GetOnebyIDString(id);
         }
+
+
 
         public void Insert(data.Usuario t)
         {

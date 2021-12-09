@@ -38,7 +38,8 @@ namespace ASADA
             services.AddControllers();
 
             ///////// INICIO AutoMapper
-            var mappingConfig = new MapperConfiguration(mc => {
+            var mappingConfig = new MapperConfiguration(mc =>
+            {
                 mc.AddProfile(new MappingProfile());
             });
 

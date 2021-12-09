@@ -1,0 +1,67 @@
+﻿
+@model AsadasFront.API.Models.Usuario;
+
+
+@{ Layout = "~/Views/Shared/_LayoutLogin.cshtml"; }
+
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<hr />
+
+<h4 class="m-0">Bienvenido!</h4>
+<br />
+
+<form asp-action="validacionInicioSesion">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Correo" class="text-label">Correo Electrónico</label>
+        <div class="input-group input-group-merge">
+            <input asp-for="Correo" class="form-control" placeholder="Ingrese su correo" />
+            <div class="input-group-prepend">
+                <div class="input-group-text">
+                    <span class="far fa-envelope"></span>
+                </div>
+            </div>
+        </div>
+        <span asp-validation-for="Correo" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password" class="text-label">Contraseña</label>
+        <div class="input-group input-group-merge">
+            <input asp-for="Password" class="form-control" placeholder="Ingrese su contraseña" />
+            <div class="input-group-prepend">
+                <div class="input-group-text">
+                    <span class="fas fa-key"></span>
+                </div>
+            </div>
+        </div>
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    @if (ViewBag.MensajeInicio != null)
+    {
+        var mensaje = @ViewBag.MensajeInicio;
+<div class="alert alert-danger "> @ViewBag.MensajeInicio </div>}
+    <a asp-area="" asp-controller="Login" asp-action="Create">Registrarse</a>
+
+
+    <div class="form-group text-center">
+        <input type="submit" value="Login" class="btn btn-primary mb-2" />
+        <br />
+        <a asp-area="" asp-controller="Login" asp-action="EditPassword">Olvidó su contraseña?</a>
+    </div>
+</form>
+@*</div>
+    </div>*@
+
+@*<div>
+        <a asp-action="Index">Back to List</a>
+    </div>*@
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

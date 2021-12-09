@@ -46,6 +46,11 @@ namespace BS
         public Task<data.Usuario> GetOneByIdAsyncString(string id)
         {
             return new DAL.Usuario(db).GetOneByIdAsyncString(id);
+        } 
+        
+        public Task<data.Usuario> GetOneByIdAsyncStringLogin(string correo, string password)
+        {
+            return new DAL.Usuario(db).GetOneByIdAsyncStringLogin(correo, password);
         }
 
         public data.Usuario GetOneByIdString(string id)

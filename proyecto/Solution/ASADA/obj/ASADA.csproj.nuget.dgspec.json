@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA\\ASADA.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA\\ASADA.csproj": {}
   },
   "projects": {
-    "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA\\ASADA.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA\\ASADA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA\\ASADA.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA\\ASADA.csproj",
         "projectName": "ASADA",
-        "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA\\ASADA.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA\\ASADA.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\BS\\BS.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\BS\\BS.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\BS\\BS.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\BS\\BS.csproj"
               },
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
               },
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
               }
             }
           }
@@ -60,27 +60,27 @@
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -113,14 +113,14 @@
         }
       }
     },
-    "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\BS\\BS.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\BS\\BS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\BS\\BS.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\BS\\BS.csproj",
         "projectName": "BS",
-        "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\BS\\BS.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\BS\\BS.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\BS\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\BS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -137,14 +137,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
               },
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
               },
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL\\DAL.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL\\DAL.csproj"
               }
             }
           }
@@ -161,23 +161,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             }
           },
           "imports": [
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj",
         "projectName": "DAL.DO",
-        "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -237,23 +237,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             }
           },
           "imports": [
@@ -275,14 +275,14 @@
         }
       }
     },
-    "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj",
         "projectName": "DAL.EF",
-        "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -299,8 +299,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
               }
             }
           }
@@ -317,23 +317,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             }
           },
           "imports": [
@@ -355,14 +355,14 @@
         }
       }
     },
-    "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj",
         "projectName": "DAL.Repository",
-        "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -379,8 +379,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
               }
             }
           }
@@ -397,23 +397,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             }
           },
           "imports": [
@@ -435,14 +435,14 @@
         }
       }
     },
-    "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL\\DAL.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -459,14 +459,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
               },
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
               },
-              "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj": {
-                "projectPath": "C:\\Git\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.Repository\\DAL.Repository.csproj"
               }
             }
           }
@@ -483,23 +483,23 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             }
           },
           "imports": [

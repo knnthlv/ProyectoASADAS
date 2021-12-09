@@ -10,5 +10,6 @@ namespace DAL.Repository
     {
         Task<IEnumerable<data.Usuario>> GetAllAsync();
         Task<data.Usuario> GetOneByIdAsyncString(string id);
+        Task<data.Usuario> GetOneByIdAsyncStringLogin(string correo, string password);
     }
 }

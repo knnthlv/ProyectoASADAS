@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\0412\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\0412\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\0412\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj",
         "projectName": "Wizard",
-        "projectPath": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\SC_701_ProyectoFinal\\Front End Proyecto\\FrontAsadas\\Wizard\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\Front End Proyecto\\FrontAsadas\\Wizard\\Wizard.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\0412\\Front End Proyecto\\FrontAsadas\\Wizard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
