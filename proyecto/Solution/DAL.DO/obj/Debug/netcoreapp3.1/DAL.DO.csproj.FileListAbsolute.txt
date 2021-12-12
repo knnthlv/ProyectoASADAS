@@ -33,3 +33,5 @@ C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.dll
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.pdb
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.genruntimeconfig.cache
+C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.csproj.AssemblyReference.cache
+C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\DAL.DO\obj\Debug\netcoreapp3.1\DAL.DO.GeneratedMSBuildEditorConfig.editorconfig

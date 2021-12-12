@@ -20,7 +20,6 @@ namespace ASADA.Models
         public string Cedula { get; set; }
         public DateTime FechaVencimiento { get; set; }
         public int IdEstado { get; set; }
-
         public virtual Usuario CedulaNavigation { get; set; }
         public virtual Estado IdEstadoNavigation { get; set; }
         public virtual Medidor IdMedidorNavigation { get; set; }

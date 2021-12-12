@@ -16,6 +16,7 @@ namespace AsadasFront.API.Controllers
         UsuariosServices usuarios = new UsuariosServices();
         MedidoresServices medidores = new MedidoresServices();
         EstadosServices estados = new EstadosServices();
+        TarjetasServices tarjetas = new TarjetasServices();
         public ReciboController()
         {
 
@@ -180,25 +181,47 @@ namespace AsadasFront.API.Controllers
             {
                 return NotFound();
             }
-
+            ViewData["NumeroTarjeta"] = new SelectList(tarjetas.GetAll(), "NumeroTarjeta", "NumeroTarjeta");
             return View(recibo);
         }
 
         // POST: Recibo/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public async Task<IActionResult> DeleteConfirmed(int id, string Cedula, string NumeroTarjeta)
         {
             var recibo = GetById(id);
+            recibo.IdEstado = 2;
+            recibo.IdEstadoNavigation.IdEstado = 2;
+            recibo.IdEstadoNavigation.Descripcion = "Pagado";
             using (var cl = new HttpClient())
             {
-                cl.BaseAddress = new Uri(Program.baseurl);
-                cl.DefaultRequestHeaders.Clear();
-                cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage res = await cl.DeleteAsync("api/Recibo/" + id);
+                //cl.BaseAddress = new Uri(Program.baseurl);
+                //cl.DefaultRequestHeaders.Clear();
+                //cl.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
+                //HttpResponseMessage res = await cl.DeleteAsync("api/Recibo/" + id);
 
-                if (res.IsSuccessStatusCode)
+                cl.BaseAddress = new Uri(Program.baseurl);
+                var content = JsonConvert.SerializeObject(recibo);
+                var buffer = System.Text.Encoding.UTF8.GetBytes(content);
+                var byteContent = new ByteArrayContent(buffer);
+                byteContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/json");
+                var postTask = cl.PutAsync("api/Recibo/" + id, byteContent).Result;
+
+                Comprobante comprobante = new Comprobante();
+                comprobante.IdComprobante = 0;
+                comprobante.Cedula = Cedula;
+                comprobante.IdRecibo = id;
+                comprobante.NumeroTarjeta = NumeroTarjeta;
+
+                if (postTask.IsSuccessStatusCode)
                 {
+                    //cl.BaseAddress = new Uri(Program.baseurl);
+                    content = JsonConvert.SerializeObject(comprobante);
+                    buffer = System.Text.Encoding.UTF8.GetBytes(content);
+                    byteContent = new ByteArrayContent(buffer);
+                    byteContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/json");
+                    postTask = cl.PostAsync("api/Comprobante", byteContent).Result;
                     return RedirectToAction("Index");
                 }
             }

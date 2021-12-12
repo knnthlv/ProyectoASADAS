@@ -313,3 +313,9 @@ C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.AP
 C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
 C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\EditPassword.cshtml.g.cs
 C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\Create.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\EditPassword.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\InicioSesion.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs

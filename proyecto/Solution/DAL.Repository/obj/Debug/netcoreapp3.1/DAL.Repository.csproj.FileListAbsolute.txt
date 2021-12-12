@@ -3,7 +3,6 @@ C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreap
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.dev.json
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.dll
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csprojAssemblyReference.cache
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfoInputs.cache
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfo.cs
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CoreCompileInputs.cache
@@ -49,3 +48,5 @@ C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\ne
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.dll
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.pdb
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.genruntimeconfig.cache
+C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.AssemblyReference.cache
+C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.GeneratedMSBuildEditorConfig.editorconfig

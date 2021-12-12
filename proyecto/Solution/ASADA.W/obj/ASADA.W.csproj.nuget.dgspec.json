@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj": {}
+    "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj": {
+    "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
+        "projectUniqueName": "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
         "projectName": "ASADA.W",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA.W\\obj\\",
+        "projectPath": "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\ASADA.W.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA.W\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

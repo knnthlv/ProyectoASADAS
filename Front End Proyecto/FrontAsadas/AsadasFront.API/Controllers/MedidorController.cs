@@ -13,7 +13,7 @@ namespace AsadasFront.API.Controllers
 {
     public class MedidorController : Controller
     {
-        MedidoresServices servicios = new MedidoresServices();
+        UsuariosServices servicios = new UsuariosServices();
         public MedidorController()
         {
 

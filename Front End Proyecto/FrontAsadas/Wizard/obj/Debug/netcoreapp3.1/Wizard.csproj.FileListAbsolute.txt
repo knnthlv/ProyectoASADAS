@@ -741,3 +741,8 @@ C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\Wizard\obj\Deb
 C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\Wizard\obj\Debug\netcoreapp3.1\Wizard.dll
 C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\Wizard\obj\Debug\netcoreapp3.1\Wizard.pdb
 C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\Wizard\obj\Debug\netcoreapp3.1\Wizard.genruntimeconfig.cache
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\Wizard\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Create.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\Wizard\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Delete.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\Wizard\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Details.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\Wizard\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Edit.cshtml.g.cs
+C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\Wizard\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Index.cshtml.g.cs

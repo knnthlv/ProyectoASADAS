@@ -8931,19 +8931,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA\\ASADA.csproj",
+      "projectUniqueName": "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA\\ASADA.csproj",
       "projectName": "ASADA",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA\\ASADA.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\ASADA\\obj\\",
+      "projectPath": "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA\\ASADA.csproj",
+      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "outputPath": "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\ASADA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8957,14 +8957,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\BS\\BS.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\BS\\BS.csproj"
+            "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\BS\\BS.csproj": {
+              "projectPath": "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\BS\\BS.csproj"
             },
-            "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
+            "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj": {
+              "projectPath": "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.DO\\DAL.DO.csproj"
             },
-            "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\source\\repos\\0412\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
+            "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj": {
+              "projectPath": "C:\\GIT\\SC_701_ProyectoFinal\\proyecto\\Solution\\DAL.EF\\DAL.EF.csproj"
             }
           }
         }
@@ -9038,7 +9038,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

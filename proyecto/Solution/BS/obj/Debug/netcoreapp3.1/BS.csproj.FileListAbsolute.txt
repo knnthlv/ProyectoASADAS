@@ -3,7 +3,6 @@ C:\Git\SC_701_ProyectoFinal\proyecto\Solution\BS\bin\Debug\netcoreapp3.1\BS.runt
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\BS\bin\Debug\netcoreapp3.1\BS.runtimeconfig.dev.json
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\BS\bin\Debug\netcoreapp3.1\BS.dll
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\BS\bin\Debug\netcoreapp3.1\BS.pdb
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\BS.csprojAssemblyReference.cache
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfoInputs.cache
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\BS.AssemblyInfo.cs
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\BS.csproj.CoreCompileInputs.cache
@@ -61,3 +60,5 @@ C:\Users\Usuario\source\repos\0412\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\BS.dll
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\BS.pdb
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\BS.genruntimeconfig.cache
+C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\BS.csproj.AssemblyReference.cache
+C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\BS\obj\Debug\netcoreapp3.1\BS.GeneratedMSBuildEditorConfig.editorconfig

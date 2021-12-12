@@ -125,7 +125,6 @@ C:\Git\SC_701_ProyectoFinal\proyecto\Solution\ASADA\bin\Debug\netcoreapp3.1\runt
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\ASADA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\ASADA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\ASADA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\ASADA\obj\Debug\netcoreapp3.1\ASADA.csprojAssemblyReference.cache
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\ASADA\obj\Debug\netcoreapp3.1\ASADA.AssemblyInfoInputs.cache
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\ASADA\obj\Debug\netcoreapp3.1\ASADA.AssemblyInfo.cs
 C:\Git\SC_701_ProyectoFinal\proyecto\Solution\ASADA\obj\Debug\netcoreapp3.1\ASADA.csproj.CoreCompileInputs.cache
@@ -457,3 +456,5 @@ C:\Users\Usuario\source\repos\0412\proyecto\Solution\ASADA\obj\Debug\netcoreapp3
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\ASADA\obj\Debug\netcoreapp3.1\ASADA.dll
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\ASADA\obj\Debug\netcoreapp3.1\ASADA.pdb
 C:\Users\Usuario\source\repos\0412\proyecto\Solution\ASADA\obj\Debug\netcoreapp3.1\ASADA.genruntimeconfig.cache
+C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\ASADA\obj\Debug\netcoreapp3.1\ASADA.csproj.AssemblyReference.cache
+C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\ASADA\obj\Debug\netcoreapp3.1\ASADA.GeneratedMSBuildEditorConfig.editorconfig
