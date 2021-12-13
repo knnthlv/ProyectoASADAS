@@ -12,7 +12,7 @@ namespace AsadasFront.API
     public class Program
     {
 
-        public static string baseurl = "http://localhost:37455/";
+        public static string baseurl = "https://asada-api.azurewebsites.net/";
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();

@@ -1,321 +1,409 @@
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.exe
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.deps.json
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.runtimeconfig.json
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.runtimeconfig.dev.json
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.dll
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.pdb
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.Views.dll
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.Views.pdb
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.AssemblyReference.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.AssemblyInfoInputs.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.AssemblyInfo.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.CoreCompileInputs.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorAssemblyInfo.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorAssemblyInfo.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\staticwebassets\AsadasFront.API.StaticWebAssets.Manifest.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\staticwebassets\AsadasFront.API.StaticWebAssets.xml
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\AsadasFront.API.styles.css
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.TagHelpers.input.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.TagHelpers.output.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorCoreGenerate.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Create.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Delete.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Details.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Edit.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Index.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorTargetAssemblyInfo.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorTargetAssemblyInfo.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.Views.pdb
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.CopyComplete
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.dll
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.pdb
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.genruntimeconfig.cache
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Create.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Delete.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Details.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Edit.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Index.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Create.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Delete.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Details.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Edit.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Index.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Create.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Delete.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Details.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edit.cshtml.g.cs
-C:\Users\Dell\source\repos\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.exe
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.deps.json
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.runtimeconfig.json
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.runtimeconfig.dev.json
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.dll
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.pdb
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.Views.dll
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.Views.pdb
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.AssemblyReference.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.AssemblyInfoInputs.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.AssemblyInfo.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.CoreCompileInputs.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.MvcApplicationPartsAssemblyInfo.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorAssemblyInfo.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorAssemblyInfo.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\staticwebassets\AsadasFront.API.StaticWebAssets.Manifest.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\staticwebassets\AsadasFront.API.StaticWebAssets.xml
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\AsadasFront.API.styles.css
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.TagHelpers.input.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.TagHelpers.output.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorCoreGenerate.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Delete.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Details.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Edit.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Delete.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Details.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Edit.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Delete.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Details.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Edit.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Delete.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Details.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edit.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorTargetAssemblyInfo.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorTargetAssemblyInfo.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.Views.pdb
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.CopyComplete
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.dll
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.pdb
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.genruntimeconfig.cache
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Delete.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Details.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Edit.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Delete.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Details.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Edit.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Delete.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Details.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Edit.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Delete.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Details.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Edit.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Delete.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Details.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Edit.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.exe
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.deps.json
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.runtimeconfig.json
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.runtimeconfig.dev.json
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.dll
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.pdb
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.Views.dll
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.Views.pdb
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csprojAssemblyReference.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.AssemblyInfoInputs.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.AssemblyInfo.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorAssemblyInfo.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorAssemblyInfo.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\staticwebassets\AsadasFront.API.StaticWebAssets.Manifest.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\staticwebassets\AsadasFront.API.StaticWebAssets.xml
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\AsadasFront.API.styles.css
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.TagHelpers.input.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.TagHelpers.output.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorCoreGenerate.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Create.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Delete.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Details.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Edit.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Create.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Delete.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Details.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Edit.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Create.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Delete.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Details.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Edit.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Create.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Delete.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Details.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Edit.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Create.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Delete.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Details.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Edit.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Create.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Delete.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Details.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Edit.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Create.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Delete.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Details.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Edit.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Create.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Delete.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Details.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Edit.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Create.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Delete.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Details.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edit.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorTargetAssemblyInfo.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorTargetAssemblyInfo.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.Views.pdb
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.CopyComplete
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.dll
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.pdb
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.genruntimeconfig.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.exe
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.deps.json
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.runtimeconfig.json
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.runtimeconfig.dev.json
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.dll
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.pdb
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.Views.dll
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\AsadasFront.API.Views.pdb
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csprojAssemblyReference.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.AssemblyInfoInputs.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.AssemblyInfo.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorAssemblyInfo.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorAssemblyInfo.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\staticwebassets\AsadasFront.API.StaticWebAssets.Manifest.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\staticwebassets\AsadasFront.API.StaticWebAssets.xml
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\AsadasFront.API.styles.css
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.TagHelpers.input.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.TagHelpers.output.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorCoreGenerate.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Delete.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Details.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Edit.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Averia\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Delete.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Details.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Edit.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Comprobante\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Delete.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Details.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Edit.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Estado\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Delete.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Details.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Edit.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Marca\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Delete.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Details.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Edit.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Medidor\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Delete.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Details.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Edit.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Recibo\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Delete.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Details.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Edit.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Tarjeta\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Delete.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Details.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Edit.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\TipoUsuarios\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Delete.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Details.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edit.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorTargetAssemblyInfo.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.RazorTargetAssemblyInfo.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.Views.pdb
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.csproj.CopyComplete
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.dll
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.pdb
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\AsadasFront.API.genruntimeconfig.cache
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\InicioSesion.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\Create.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\EditPassword.cshtml.g.cs
-C:\Users\Usuario\source\repos\0412\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\Create.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\EditPassword.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Login\InicioSesion.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
-C:\GIT\SC_701_ProyectoFinal\Front End Proyecto\FrontAsadas\AsadasFront.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.exe
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.deps.json
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.json
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.dev.json
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.dll
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.pdb
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.dll
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.AssemblyReference.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfoInputs.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfo.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CoreCompileInputs.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.Manifest.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.xml
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/scopedcss/bundle/AsadasFront.API.styles.css
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.input.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.output.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorCoreGenerate.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Create.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Delete.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Details.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Edit.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Index.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CopyComplete
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.dll
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.pdb
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.genruntimeconfig.cache
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Create.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Delete.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Details.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Edit.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Index.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Create.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Delete.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Details.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Edit.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Index.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Create.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Delete.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Details.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Edit.cshtml.g.cs
+C:/Users/Dell/source/repos/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.exe
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.deps.json
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.json
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.dev.json
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.dll
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.pdb
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.dll
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.AssemblyReference.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfoInputs.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfo.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CoreCompileInputs.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.MvcApplicationPartsAssemblyInfo.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.Manifest.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.xml
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/scopedcss/bundle/AsadasFront.API.styles.css
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.input.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.output.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorCoreGenerate.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Delete.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Details.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Edit.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Delete.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Details.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Edit.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Delete.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Details.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Edit.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Delete.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Details.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Edit.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CopyComplete
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.dll
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.pdb
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.genruntimeconfig.cache
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Delete.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Details.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Edit.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Delete.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Details.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Edit.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Delete.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Details.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Edit.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Delete.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Details.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Edit.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Delete.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Details.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Edit.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.exe
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.deps.json
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.json
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.dev.json
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.dll
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.pdb
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.dll
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csprojAssemblyReference.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfoInputs.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfo.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.Manifest.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.xml
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/scopedcss/bundle/AsadasFront.API.styles.css
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.input.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.output.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorCoreGenerate.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Create.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Delete.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Details.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Edit.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Create.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Delete.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Details.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Edit.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Create.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Delete.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Details.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Edit.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Create.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Delete.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Details.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Edit.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Create.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Delete.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Details.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Edit.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Create.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Delete.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Details.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Edit.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Create.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Delete.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Details.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Edit.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Create.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Delete.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Details.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Edit.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Create.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Delete.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Details.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Edit.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Index.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CopyComplete
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.dll
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.pdb
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.genruntimeconfig.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.exe
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.deps.json
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.json
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.dev.json
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.dll
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.pdb
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.dll
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csprojAssemblyReference.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfoInputs.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfo.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.Manifest.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.xml
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/scopedcss/bundle/AsadasFront.API.styles.css
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.input.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.output.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorCoreGenerate.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Delete.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Details.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Edit.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Delete.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Details.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Edit.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Delete.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Details.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Edit.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Delete.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Details.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Edit.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Delete.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Details.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Edit.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Delete.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Details.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Edit.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Delete.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Details.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Edit.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Delete.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Details.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Edit.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Delete.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Details.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Edit.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Index.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CopyComplete
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.dll
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.pdb
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.genruntimeconfig.cache
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/InicioSesion.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/Create.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutLogin.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/EditPassword.cshtml.g.cs
+C:/Users/Usuario/source/repos/0412/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout - Copy.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/Create.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/EditPassword.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/Index.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/InicioSesion.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout - Copy.cshtml.g.cs
+C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutLogin.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.deps.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.runtimeconfig.dev.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfoInputs.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfo.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CoreCompileInputs.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorAssemblyInfo.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.Manifest.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/staticwebassets/AsadasFront.API.StaticWebAssets.xml
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/scopedcss/bundle/AsadasFront.API.styles.css
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.input.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.TagHelpers.output.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorCoreGenerate.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Delete.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Details.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Edit.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Averia/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Delete.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Details.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Edit.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Comprobante/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Delete.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Details.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Edit.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Estado/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/EditPassword.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Login/InicioSesion.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Delete.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Details.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Edit.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Marca/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Delete.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Details.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Edit.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Medidor/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Delete.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Details.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Edit.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout - Copy.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutLogin.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Delete.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Details.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Edit.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Tarjeta/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Delete.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Details.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Edit.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/TipoUsuarios/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Create.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Delete.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Details.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Edit.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Usuario/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.RazorTargetAssemblyInfo.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.CopyComplete
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.genruntimeconfig.cache
