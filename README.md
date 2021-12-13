@@ -5,16 +5,17 @@
 * Confluence: https://asadasfidelitas.atlassian.net/wiki/spaces/ASADAS/pages/196610/Meetings
 
 ## Azure - APIS
-* Usuario: 
-* Tarjeta: 
-* Tipo_Usuario: 
-* Recibo: 
-* Comprobante: 
-* Estado: 
-* Medidor: 
-* Avería: https://asadas-api.portal.azure-api.net/docs/services/averias/operations/post-id-averia
-* Marca: 
+* General: http://asada.azurewebsites.net/swagger/index.html
+* Avería: http://asada.azurewebsites.net/api/Averia
+* Comprobante: http://asada.azurewebsites.net/api/Comprobante
+* Estado: http://asada.azurewebsites.net/api/Estado
+* Marca: http://asada.azurewebsites.net/api/Marca
+* Medidor: http://asada.azurewebsites.net/api/Medidor
+* Recibo: http://asada.azurewebsites.net/api/Recibo
+* Tarjeta: http://asada.azurewebsites.net/api/Tarjeta
+* Tipo_Usuario: http://asada.azurewebsites.net/api/Tipo_Usuario
+* Usuario: http://asada.azurewebsites.net/api/Usuario
 
 ## Carpetas Principales
-* Carpeta "proyecto/Solution" contiene todo el código relacionado al backend
-* Carpeta "Front End Proyecto/FrontAsadas" contiene todo el código equivalente al front end
+* "proyecto/Solution" contiene todo el código relacionado al backend
+* "Front End Proyecto/FrontAsadas" contiene todo el código equivalente al front end
