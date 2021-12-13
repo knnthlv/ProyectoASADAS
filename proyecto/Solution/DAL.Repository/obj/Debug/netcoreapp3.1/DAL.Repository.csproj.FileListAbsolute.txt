@@ -1,52 +1,70 @@
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.deps.json
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.json
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.dev.json
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.dll
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfoInputs.cache
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfo.cs
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CoreCompileInputs.cache
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.dll
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.pdb
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.genruntimeconfig.cache
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.dll
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.dll
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.pdb
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.pdb
-C:\Git\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CopyComplete
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.deps.json
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.json
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.dev.json
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.dll
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.dll
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.dll
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.pdb
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.pdb
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csprojAssemblyReference.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfoInputs.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfo.cs
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CopyComplete
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.dll
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.pdb
-C:\Users\Usuario\OneDrive - Universidad Fidélitas\1_Ingeniería Sistemas\22_Programacion_Avanzada_Web\Proyecto\04-12\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.genruntimeconfig.cache
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.deps.json
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.json
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.runtimeconfig.dev.json
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.dll
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.Repository.pdb
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.dll
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.dll
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.EF.pdb
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\bin\Debug\netcoreapp3.1\DAL.DO.pdb
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csprojAssemblyReference.cache
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfoInputs.cache
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.AssemblyInfo.cs
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.CopyComplete
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.dll
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.pdb
-C:\Users\Usuario\source\repos\0412\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.genruntimeconfig.cache
-C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.csproj.AssemblyReference.cache
-C:\GIT\SC_701_ProyectoFinal\proyecto\Solution\DAL.Repository\obj\Debug\netcoreapp3.1\DAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.deps.json
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.runtimeconfig.json
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.runtimeconfig.dev.json
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.dll
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.pdb
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.AssemblyInfoInputs.cache
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.AssemblyInfo.cs
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.CoreCompileInputs.cache
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.dll
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.pdb
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.genruntimeconfig.cache
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.DO.dll
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.EF.dll
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.EF.pdb
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.DO.pdb
+C:/Git/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.CopyComplete
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.deps.json
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.runtimeconfig.json
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.runtimeconfig.dev.json
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.dll
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.pdb
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.DO.dll
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.EF.dll
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.EF.pdb
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.DO.pdb
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csprojAssemblyReference.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.AssemblyInfoInputs.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.AssemblyInfo.cs
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.CopyComplete
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.dll
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.pdb
+C:/Users/Usuario/OneDrive - Universidad Fidélitas/1_Ingeniería Sistemas/22_Programacion_Avanzada_Web/Proyecto/04-12/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.genruntimeconfig.cache
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.deps.json
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.runtimeconfig.json
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.runtimeconfig.dev.json
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.dll
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.pdb
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.DO.dll
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.EF.dll
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.EF.pdb
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.DO.pdb
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csprojAssemblyReference.cache
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.AssemblyInfoInputs.cache
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.AssemblyInfo.cs
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.CoreCompileInputs.cache
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.CopyComplete
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.dll
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.pdb
+C:/Users/Usuario/source/repos/0412/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.genruntimeconfig.cache
+C:/GIT/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.AssemblyReference.cache
+C:/GIT/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.deps.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.runtimeconfig.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.runtimeconfig.dev.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.Repository.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.DO.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.EF.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.EF.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/bin/Debug/netcoreapp3.1/DAL.DO.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.AssemblyReference.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.AssemblyInfoInputs.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.AssemblyInfo.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.CoreCompileInputs.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.csproj.CopyComplete
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.Repository/obj/Debug/netcoreapp3.1/DAL.Repository.genruntimeconfig.cache
