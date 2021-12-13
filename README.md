@@ -1,6 +1,6 @@
 # SC_701_ProyectoFinal
 
-https://asada.azurewebsites.net/Login/Create
+* Página: https://asada.azurewebsites.net
 
 ## Atlassian
 * Jira: https://asadasfidelitas.atlassian.net/jira/software/projects/AS/boards/1/backlog
