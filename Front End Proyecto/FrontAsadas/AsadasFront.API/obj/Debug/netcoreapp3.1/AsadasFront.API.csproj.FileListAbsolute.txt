@@ -329,6 +329,7 @@ C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/D
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.dll
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.AssemblyReference.cache
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.GeneratedMSBuildEditorConfig.editorconfig
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfoInputs.cache
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfo.cs
@@ -398,4 +399,3 @@ C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/D
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.dll
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.pdb
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.genruntimeconfig.cache
-/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.AssemblyReference.cache

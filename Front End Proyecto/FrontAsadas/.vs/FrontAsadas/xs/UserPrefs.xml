@@ -5,9 +5,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FrontAsadas" expanded="True" selected="True">
-            <Node name="AsadasFront.API" expanded="True">
-              <Node name="Models" expanded="True" />
-            </Node>
+            <Node name="AsadasFront.API" expanded="True" />
             <Node name="Wizard" expanded="True" />
           </Node>
         </State>
