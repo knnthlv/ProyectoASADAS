@@ -4,69 +4,71 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<!-- DataTable -->
+@section scripts{
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs5/dt-1.11.3/datatables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs5/dt-1.11.3/datatables.min.js"></script>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Nombre)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.PrimerApellido)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SegundoApellido)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Correo)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Password)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Telefono)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdUsuarioNavigation)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Nombre)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.PrimerApellido)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.SegundoApellido)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Correo)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Password)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Telefono)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.IdUsuarioNavigation.Descripcion)
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.Cedula">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.Cedula">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Cedula">Delete</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+    <script>$(document).ready(function () {
+            $('#table').DataTable({
+                "columnDefs": [
+                    { "orderable": false, "targets": -1 }
+                ],
+                "info": false,
+                "searching": false,
+                "paging": false
+            });
+        });</script>
+}
+<!-- Breadcrumb, Encabezado y Añadir -->
+<div class="container-fluid page__heading-container">
+    <div class="page__heading d-flex align-items-center">
+        <div class="flex">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb mb-0">
+                    <li class="breadcrumb-item"><a href="#"><i class="material-icons icon-20pt">home</i></a></li>
+                    <li class="breadcrumb-item active">Usuarios</li>
+                </ol>
+            </nav>
+            <h1 class="m-0">Lista</h1>
+        </div>
+        <a class="btn btn-success ml-3" asp-action="Create">Agregar</a>
+    </div>
+</div>
+<!-- Container blanco -->
+<div class="container-fluid page__container">
+    <div class="card">
+        <div class="table-responsive">
+            <!-- Tabla -->
+            <table class="table mb-0 thead-border-top-0 table-striped table-hover" id="table">
+                <thead>
+                    <tr>
+                        <th>Cédula</th>
+                        <th>Nombre</th>
+                        <th>Correo</th>
+                        <th>Teléfono</th>
+                        <th>Rol</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.Cedula)</div></td>
+                        <td>@Html.DisplayFor(modelItem => item.Nombre) @Html.DisplayFor(modelItem => item.PrimerApellido) @Html.DisplayFor(modelItem => item.SegundoApellido)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Correo)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+                        <td>@Html.DisplayFor(modelItem => item.IdUsuarioNavigation.Descripcion)</td>
+                        <!-- Botones de Editar y Eliminar -->
+                        <td>
+                            <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.Cedula">Editar</a>
+                            <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Cedula">Eliminar</a>
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

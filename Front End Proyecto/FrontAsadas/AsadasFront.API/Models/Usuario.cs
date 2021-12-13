@@ -32,7 +32,7 @@ namespace AsadasFront.API.Models
         public string SegundoApellido { get; set; }
 
         [Required(ErrorMessage = "Escriba su correo.")]
-        [DataType(DataType.EmailAddress,ErrorMessage ="Digite un correo válido")]
+        [DataType(DataType.EmailAddress, ErrorMessage = "Digite un correo válido")]
         public string Correo { get; set; }
 
         [Required(ErrorMessage = "Escriba su contraseña.")]

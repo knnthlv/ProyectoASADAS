@@ -4,8 +4,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FrontAsadas" expanded="True" selected="True">
-            <Node name="AsadasFront.API" expanded="True" />
+          <Node name="FrontAsadas" expanded="True">
+            <Node name="AsadasFront.API" expanded="True" selected="True" />
             <Node name="Wizard" expanded="True" />
           </Node>
         </State>
