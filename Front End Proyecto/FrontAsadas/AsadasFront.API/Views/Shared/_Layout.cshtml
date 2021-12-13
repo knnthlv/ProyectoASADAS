@@ -131,7 +131,7 @@
                                     </span>
                                 </a>
                                 <div id="account_menu" class="dropdown-menu dropdown-menu-right">
-                                    <a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Logout"><span class="sidebar-menu-text">Cerrar Sesion</span></a>
+                                    <a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Logout"><span class="sidebar-menu-text">Cerrar Sesión</span></a>
                                 </div>
                             </li>
                         </ul>
@@ -165,31 +165,31 @@
 
                         <div class="sidebar sidebar-light sidebar-left sidebar-p-t" data-perfect-scrollbar>
 
-                            <div class="sidebar-heading active">Menu</div>
+                            <div class="sidebar-heading active">Menú</div>
                             <ul class="sidebar-menu">
                                 @if (User.Identity.IsAuthenticated)
                                 {
                                     if (SessionHelper.GetRole(User) == "Administrador")
                                     {
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Estado" asp-action="Index"><span class="sidebar-menu-text">Lista Estados</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Estado" asp-action="Index"><span class="sidebar-menu-text">Estados</span></a>
                                         </li>
 
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Marca" asp-action="Index"><span class="sidebar-menu-text">Lista Marcas</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Marca" asp-action="Index"><span class="sidebar-menu-text">Marcas</span></a>
                                         </li>
 
 
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Medidor" asp-action="Index"><span class="sidebar-menu-text">Lista Medidores</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Medidor" asp-action="Index"><span class="sidebar-menu-text">Medidores</span></a>
                                         </li>
 
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="TipoUsuarios" asp-action="Index"><span class="sidebar-menu-text">Lista de Tipos</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="TipoUsuarios" asp-action="Index"><span class="sidebar-menu-text">Tipos de Usuario</span></a>
                                         </li>
 
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Usuario" asp-action="Index"><span class="sidebar-menu-text">Lista Usuarios</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Usuario" asp-action="Index"><span class="sidebar-menu-text">Usuarios</span></a>
                                         </li>
                                     }
                                     if (SessionHelper.GetRole(User) == "Cliente")
@@ -199,19 +199,19 @@
                                         </li>*@
 
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Averia" asp-action="Index" ><span class="sidebar-menu-text">Ver Averías</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Averia" asp-action="Index" ><span class="sidebar-menu-text">Averías</span></a>
                                         </li>
 
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Comprobante" asp-action="Index"><span class="sidebar-menu-text">Ver Comprobantes</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Comprobante" asp-action="Index"><span class="sidebar-menu-text">Comprobantes</span></a>
                                         </li>
 
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Recibo" asp-action="Index"><span class="sidebar-menu-text">Ver Recibos</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Recibo" asp-action="Index"><span class="sidebar-menu-text">Recibos</span></a>
                                         </li>
 
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Tarjeta" asp-action="Index"><span class="sidebar-menu-text">Ver Tarjetas</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Tarjeta" asp-action="Index"><span class="sidebar-menu-text">Tarjetas</span></a>
                                         </li>
                                     }
                                 }
@@ -219,7 +219,7 @@
                                 {
 
                                         <li class="nav-item mx-0 mx-lg-1">
-                                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" asp-area="" asp-controller="Login" asp-action="InicioSesion">Inicio Sesion</a>
+                                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" asp-area="" asp-controller="Login" asp-action="InicioSesion">Inicio Sesión</a>
                                         </li>
 
                                         <li class="nav-item mx-0 mx-lg-1">

@@ -4,31 +4,47 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
-
-<h4>Estado</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="IdEstado" />
-            <div class="form-group">
-                <label asp-for="Descripcion" class="control-label"></label>
-                <input asp-for="Descripcion" class="form-control" />
-                <span asp-validation-for="Descripcion" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
+<!-- Breadcrumb -->
+<div class="container-fluid  page__heading-container">
+    <div class="page__heading">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mb-0">
+                <li class="breadcrumb-item">
+                    <i class="material-icons icon-20pt">home</i>
+                <li class="breadcrumb-item active"> Estados </li>
+                <li class="breadcrumb-item active"> Actualizar </li>
+            </ol>
+        </nav>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<!-- Container blanco -->
+<div class="container-fluid page__container">
+    <div class="card card-form">
+        <div class="row no-gutters">
+            <!-- Requisitos -->
+            <div class="col-lg-4 card-body">
+                <p><strong class="headings-color">Requisitos</strong></p>
+                <p class="text-muted"> De 2 a 10 letras: <span class="badge badge-pill badge-success"> ✔ </span> </p>
+            </div>
+            <!-- Descripción, Cancelar y Actualizar -->
+            <div class="col-lg-8 card-form__body card-body">
+                <form asp-action="Edit" novalidate>
+                    <input type="hidden" asp-for="IdEstado">
+                    <div class="was-validated">
+                        <div class="form-row">
+                            <div class="col-12 col-md-6 mb-3">
+                                <label>Nuevo Estado</label>
+                                <input asp-for="Descripcion" class="form-control" maxlength="10" onkeypress="return /[a-z]/i.test(event.key)" pattern=".{2,10}" placeholder="Ej.: Activo" required type="text">
+                                <div class="invalid-feedback">No cumple con los requisitos</div>
+                                <div class="valid-feedback">Formato válido</div>
+                            </div>
+                        </div>
+                    </div>
+                    <a asp-action="Index" class="btn btn-light"> Cancelar </a>
+                    <button class="btn btn-success" type="submit"> Actualizar </button>
+                </form>
+            </div>
+        </div>
+    </div>
 </div>
-
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}

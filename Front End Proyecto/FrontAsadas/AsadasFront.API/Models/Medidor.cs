@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -13,6 +14,9 @@ namespace AsadasFront.API.Models
         }
 
         public int IdMedidor { get; set; }
+        [Required]
+        [MinLength(3)]
+        [MaxLength(50)]
         public string Direccion { get; set; }
         public string Cedula { get; set; }
 
