@@ -1,0 +1,13 @@
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/bin/Release/netcoreapp3.1/DAL.DO.deps.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/bin/Release/netcoreapp3.1/DAL.DO.runtimeconfig.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/bin/Release/netcoreapp3.1/DAL.DO.runtimeconfig.dev.json
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/bin/Release/netcoreapp3.1/DAL.DO.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/bin/Release/netcoreapp3.1/DAL.DO.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/obj/Release/netcoreapp3.1/DAL.DO.csproj.AssemblyReference.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/obj/Release/netcoreapp3.1/DAL.DO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/obj/Release/netcoreapp3.1/DAL.DO.AssemblyInfoInputs.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/obj/Release/netcoreapp3.1/DAL.DO.AssemblyInfo.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/obj/Release/netcoreapp3.1/DAL.DO.csproj.CoreCompileInputs.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/obj/Release/netcoreapp3.1/DAL.DO.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/obj/Release/netcoreapp3.1/DAL.DO.pdb
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/DAL.DO/obj/Release/netcoreapp3.1/DAL.DO.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ASADA" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/ASADA/obj/Release/netcoreapp3\.1/PubTmp/Out/$" />
+  </parameter>
+</parameters>
