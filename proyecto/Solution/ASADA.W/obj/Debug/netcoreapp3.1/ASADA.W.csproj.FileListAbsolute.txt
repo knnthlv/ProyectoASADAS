@@ -689,7 +689,6 @@ C:/GIT/SC_701_ProyectoFinal/proyecto/Solution/ASADA.W/obj/Debug/netcoreapp3.1/AS
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/ASADA.W/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/ASADA.W/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/ASADA.W/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/ASADA.W/obj/Debug/netcoreapp3.1/ASADA.W.csproj.AssemblyReference.cache
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/ASADA.W/obj/Debug/netcoreapp3.1/ASADA.W.GeneratedMSBuildEditorConfig.editorconfig
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/ASADA.W/obj/Debug/netcoreapp3.1/ASADA.W.AssemblyInfoInputs.cache
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/proyecto/Solution/ASADA.W/obj/Debug/netcoreapp3.1/ASADA.W.AssemblyInfo.cs
