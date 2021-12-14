@@ -4,45 +4,65 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<!-- DataTable -->
+@section scripts{
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs5/dt-1.11.3/datatables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs5/dt-1.11.3/datatables.min.js"></script>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.CedulaNavigation)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdReciboNavigation)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NumeroTarjetaNavigation)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.CedulaNavigation.Nombre)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.IdReciboNavigation.Cedula)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.NumeroTarjetaNavigation.NumeroTarjeta)
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.IdComprobante">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.IdComprobante">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.IdComprobante">Delete</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+    <script>$(document).ready(function () {
+            $('#table').DataTable({
+                "columnDefs": [
+                    { "orderable": false, "targets": -1 }
+                ],
+                "info": false,
+                "searching": false,
+                "paging": false
+            });
+        });</script>
+}
+<!-- Breadcrumb, Encabezado y Añadir -->
+<div class="container-fluid page__heading-container">
+    <div class="page__heading d-flex align-items-center">
+        <div class="flex">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb mb-0">
+                    <li class="breadcrumb-item"><a href="#"><i class="material-icons icon-20pt">home</i></a></li>
+                    <li class="breadcrumb-item active">Comprobantes</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Container blanco -->
+<div class="container-fluid page__container">
+    <div class="card">
+        <div class="table-responsive">
+            <!-- Tabla -->
+            <table class="table mb-0 thead-border-top-0 table-striped table-hover" id="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th><i class="material-icons icon-16pt text-muted mr-1">account_circle</i>Cliente</th>
+                        <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Cobro</th>
+                        <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Vencimiento</th>
+                        <th>Monto (m3)</th>
+                        <th>Tarjeta</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.IdComprobante)</td>
+                        <td>@Html.DisplayFor(modelItem => item.CedulaNavigation.Nombre) @Html.DisplayFor(modelItem => item.CedulaNavigation.PrimerApellido) @Html.DisplayFor(modelItem => item.CedulaNavigation.SegundoApellido)</td>
+                        <td>@Html.DisplayFor(modelItem => item.IdReciboNavigation.FechaCobro)</td>
+                        <td>@Html.DisplayFor(modelItem => item.IdReciboNavigation.FechaVencimiento)</td>
+                        <td>₡@Html.DisplayFor(modelItem => item.IdReciboNavigation.Monto) (@Html.DisplayFor(modelItem => item.IdReciboNavigation.Consumo))</td>
+                        <td>@Html.DisplayFor(modelItem => item.NumeroTarjeta)</td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

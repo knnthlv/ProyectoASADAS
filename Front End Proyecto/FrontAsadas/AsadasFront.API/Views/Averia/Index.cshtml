@@ -4,57 +4,65 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<!-- DataTable -->
+@section scripts{
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs5/dt-1.11.3/datatables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs5/dt-1.11.3/datatables.min.js"></script>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Descripcion)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Direccion)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FechaInicio)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FechaFin)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdEstadoNavigation)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Descripcion)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Direccion)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.FechaInicio)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.FechaFin)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.IdEstadoNavigation.Descripcion)
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.IdAveria">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.IdAveria">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.IdAveria">Delete</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+    <script>$(document).ready(function () {
+            $('#table').DataTable({
+                "columnDefs": [
+                    { "orderable": false, "targets": -1 }
+                ],
+                "info": false,
+                "searching": false,
+                "paging": false
+            });
+        });</script>
+}
+<!-- Breadcrumb, Encabezado y Añadir -->
+<div class="container-fluid page__heading-container">
+    <div class="page__heading d-flex align-items-center">
+        <div class="flex">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb mb-0">
+                    <li class="breadcrumb-item"><a href="#"><i class="material-icons icon-20pt">home</i></a></li>
+                    <li class="breadcrumb-item active">Averías</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Container blanco -->
+<div class="container-fluid page__container">
+    <div class="card">
+        <div class="table-responsive">
+            <!-- Tabla -->
+            <table class="table mb-0 thead-border-top-0 table-striped table-hover" id="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Descripción</th>
+                        <th><i class="material-icons icon-16pt mr-1">pin_drop</i>Dirección</th>
+                        <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Inicio</th>
+                        <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Finalización</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.IdAveria)</div></td>
+                            <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                            <td>@Html.DisplayFor(modelItem => item.FechaInicio)</td>
+                            <td>@Html.DisplayFor(modelItem => item.FechaFin)</td>
+                            <td>@Html.DisplayFor(modelItem => item.IdEstadoNavigation.Descripcion)</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

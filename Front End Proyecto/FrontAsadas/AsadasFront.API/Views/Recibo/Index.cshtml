@@ -4,73 +4,69 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<!-- DataTable -->
+@section scripts{
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs5/dt-1.11.3/datatables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs5/dt-1.11.3/datatables.min.js"></script>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.FechaCobro)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Monto)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Consumo)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FechaVencimiento)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CedulaNavigation)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdEstadoNavigation)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdMedidorNavigation)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.FechaCobro)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Monto)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Consumo)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.FechaVencimiento)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.CedulaNavigation.Nombre)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.IdEstadoNavigation.Descripcion)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.IdMedidorNavigation.Cedula)
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.IdRecibo">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.IdRecibo">Details</a> |
-                    @if (item.IdEstado != 2)
+    <script>$(document).ready(function () {
+            $('#table').DataTable({
+                "columnDefs": [
+                    { "orderable": false, "targets": -1 }
+                ],
+                "info": false,
+                "searching": false,
+                "paging": false
+            });
+        });</script>
+}
+<!-- Breadcrumb, Encabezado y Añadir -->
+<div class="container-fluid page__heading-container">
+    <div class="page__heading d-flex align-items-center">
+        <div class="flex">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb mb-0">
+                    <li class="breadcrumb-item"><a href="#"><i class="material-icons icon-20pt">home</i></a></li>
+                    <li class="breadcrumb-item active">Recibos</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<!-- Container blanco -->
+<div class="container-fluid page__container">
+    <div class="card">
+        <div class="table-responsive">
+            <!-- Tabla -->
+            <table class="table mb-0 thead-border-top-0 table-striped table-hover" id="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Cobro</th>
+                        <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Vencimiento</th>
+                        <th>Monto (m3)</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
                     {
-                        <a asp-action="Delete" asp-route-id="@item.IdRecibo">Pagar</a>
+                        <tr>
+                            <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.IdRecibo)</div></td>
+                            <td>@Html.DisplayFor(modelItem => item.FechaCobro)</td>
+                            <td>@Html.DisplayFor(modelItem => item.FechaVencimiento)</td>
+                            <td>₡@Html.DisplayFor(modelItem => item.Monto) (@Html.DisplayFor(modelItem => item.Consumo))</td>
+                            <td>@Html.DisplayFor(modelItem => item.IdEstadoNavigation.Descripcion)</td>
+                            <td>
+                                @if (item.IdEstado != 2)
+                                {
+                                    <a class="btn btn-sm btn-success" asp-action="Delete" asp-route-id="@item.IdRecibo">Pagar</a>
+                                }
+                            </td>
+                        </tr>
                     }
-
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
