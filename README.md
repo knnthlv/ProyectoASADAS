@@ -15,7 +15,7 @@
 * Medidor: https://asada-api.azurewebsites.net/api/Medidor
 * Recibo: https://asada-api.azurewebsites.net/api/Recibo
 * Tarjeta: https://asada-api.azurewebsites.net/api/Tarjeta
-* Tipo_Usuario: https://asada-api.azurewebsites.net/api/Tipo_Usuario
+* Tipo_Usuario: https://asada-api.azurewebsites.net/api/TipoUsuario
 * Usuario: https://asada-api.azurewebsites.net/api/Usuario
 
 ## Carpetas Principales
