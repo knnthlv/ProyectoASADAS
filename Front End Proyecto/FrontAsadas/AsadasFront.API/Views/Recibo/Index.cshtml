@@ -1,5 +1,7 @@
 ﻿@model IEnumerable<AsadasFront.API.Models.Recibo>
 
+@using AsadasFront.API.Class;
+
 @{
     ViewData["Title"] = "Index";
 }
@@ -30,7 +32,12 @@
                     <li class="breadcrumb-item active">Recibos</li>
                 </ol>
             </nav>
+            <h1 class="m-0">Lista</h1>
         </div>
+        @if (SessionHelper.GetRole(User) == "Administrador")
+        {
+            <a class="btn btn-success ml-3" asp-action="Create"> Agregar </a>
+        }
     </div>
 </div>
 <!-- Container blanco -->
@@ -51,18 +58,23 @@
                 <tbody>
                     @foreach (var item in Model)
                     {
-                        <tr>
-                            <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.IdRecibo)</div></td>
-                            <td>@Html.DisplayFor(modelItem => item.FechaCobro)</td>
-                            <td>@Html.DisplayFor(modelItem => item.FechaVencimiento)</td>
-                            <td>₡@Html.DisplayFor(modelItem => item.Monto) (@Html.DisplayFor(modelItem => item.Consumo))</td>
-                            <td>@Html.DisplayFor(modelItem => item.IdEstadoNavigation.Descripcion)</td>
-                            <td>
-                                @if (item.IdEstado != 2)
-                                {
-                                    <a class="btn btn-sm btn-success" asp-action="Delete" asp-route-id="@item.IdRecibo">Pagar</a>
-                                }
-                            </td>
+                    <tr>
+                        <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.IdRecibo)</div></td>
+                        <td>@Html.DisplayFor(modelItem => item.FechaCobro)</td>
+                        <td>@Html.DisplayFor(modelItem => item.FechaVencimiento)</td>
+                        <td>₡@Html.DisplayFor(modelItem => item.Monto) (@Html.DisplayFor(modelItem => item.Consumo))</td>
+                        <td>@Html.DisplayFor(modelItem => item.IdEstadoNavigation.Descripcion)</td>
+                        <td>
+                            @if (SessionHelper.GetRole(User) == "Administrador")
+                            {
+                                <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.IdRecibo">Editar</a>
+                                <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.IdRecibo">Eliminar</a>
+                            }
+                            @if ((SessionHelper.GetRole(User) == "Cliente") && (item.IdEstado != 2))
+                            {
+                                <a class="btn btn-sm btn-success" asp-action="Pagar" asp-route-id="@item.IdRecibo">Pagar</a>
+                            }
+                        </td>
                         </tr>
                     }
                 </tbody>

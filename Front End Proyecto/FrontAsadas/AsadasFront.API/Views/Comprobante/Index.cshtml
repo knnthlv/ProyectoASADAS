@@ -1,5 +1,7 @@
 ﻿@model IEnumerable<AsadasFront.API.Models.Comprobante>
 
+@using AsadasFront.API.Class;
+
 @{
     ViewData["Title"] = "Index";
 }
@@ -42,24 +44,31 @@
                 <thead>
                     <tr>
                         <th>ID</th>
-                        <th><i class="material-icons icon-16pt text-muted mr-1">account_circle</i>Cliente</th>
+                        <th><i class="material-icons icon-16pt text-muted mr-1">account_circle</i>Usuario</th>
                         <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Cobro</th>
                         <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Vencimiento</th>
                         <th>Monto (m3)</th>
                         <th>Tarjeta</th>
+                        @if (SessionHelper.GetRole(User) == "Administrador")
+                        {
+                            <th>Acciones</th>
+                        }
                     </tr>
                 </thead>
                 <tbody>
                     @foreach (var item in Model)
                     {
-                    <tr>
-                        <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.IdComprobante)</div></td>
-                        <td>@Html.DisplayFor(modelItem => item.CedulaNavigation.Nombre) @Html.DisplayFor(modelItem => item.CedulaNavigation.PrimerApellido) @Html.DisplayFor(modelItem => item.CedulaNavigation.SegundoApellido)</td>
-                        <td>@Html.DisplayFor(modelItem => item.IdReciboNavigation.FechaCobro)</td>
-                        <td>@Html.DisplayFor(modelItem => item.IdReciboNavigation.FechaVencimiento)</td>
-                        <td>₡@Html.DisplayFor(modelItem => item.IdReciboNavigation.Monto) (@Html.DisplayFor(modelItem => item.IdReciboNavigation.Consumo))</td>
-                        <td>@Html.DisplayFor(modelItem => item.NumeroTarjeta)</td>
-                    </tr>
+                        <tr>
+                            <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.IdComprobante)</div></td>
+                            <td>@Html.DisplayFor(modelItem => item.CedulaNavigation.Nombre) @Html.DisplayFor(modelItem => item.CedulaNavigation.PrimerApellido) @Html.DisplayFor(modelItem => item.CedulaNavigation.SegundoApellido)</td>
+                            <td>@Html.DisplayFor(modelItem => item.IdReciboNavigation.FechaCobro)</td>
+                            <td>@Html.DisplayFor(modelItem => item.IdReciboNavigation.FechaVencimiento)</td>
+                            <td>₡@Html.DisplayFor(modelItem => item.IdReciboNavigation.Monto) (@Html.DisplayFor(modelItem => item.IdReciboNavigation.Consumo))</td>
+                            <td>@Html.DisplayFor(modelItem => item.NumeroTarjeta)</td>
+                            <td>
+                                <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.IdComprobante">Eliminar</a>
+                            </td>
+                        </tr>
                     }
                 </tbody>
             </table>

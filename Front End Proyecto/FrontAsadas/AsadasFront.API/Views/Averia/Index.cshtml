@@ -1,5 +1,7 @@
 ﻿@model IEnumerable<AsadasFront.API.Models.Averia>
 
+@using AsadasFront.API.Class;
+
 @{
     ViewData["Title"] = "Index";
 }
@@ -30,7 +32,12 @@
                     <li class="breadcrumb-item active">Averías</li>
                 </ol>
             </nav>
+            <h1 class="m-0">Lista</h1>
         </div>
+        @if (SessionHelper.GetRole(User) == "Administrador")
+        {
+            <a class="btn btn-success ml-3" asp-action="Create"> Agregar </a>
+        }
     </div>
 </div>
 <!-- Container blanco -->
@@ -47,19 +54,28 @@
                         <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Inicio</th>
                         <th><i class="material-icons icon-16pt text-muted-light mr-1">today</i>Finalización</th>
                         <th>Estado</th>
-                    </tr>
+                        @if (SessionHelper.GetRole(User) == "Administrador"){
+                            <th>Acciones</th>
+                        }
+                        </tr>
                 </thead>
                 <tbody>
                     @foreach (var item in Model)
                     {
-                        <tr>
-                            <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.IdAveria)</div></td>
-                            <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
-                            <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
-                            <td>@Html.DisplayFor(modelItem => item.FechaInicio)</td>
-                            <td>@Html.DisplayFor(modelItem => item.FechaFin)</td>
-                            <td>@Html.DisplayFor(modelItem => item.IdEstadoNavigation.Descripcion)</td>
-                        </tr>
+                    <tr>
+                        <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.IdAveria)</div></td>
+                        <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                        <td>@Html.DisplayFor(modelItem => item.FechaInicio)</td>
+                        <td>@Html.DisplayFor(modelItem => item.FechaFin)</td>
+                        <td>@Html.DisplayFor(modelItem => item.IdEstadoNavigation.Descripcion)</td>
+                        @if (SessionHelper.GetRole(User) == "Administrador") {
+                            <td>
+                                <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.IdAveria">Editar</a>
+                                <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.IdAveria">Eliminar</a>
+                            </td>
+                        }
+                    </tr>
                     }
                 </tbody>
             </table>

@@ -59,8 +59,8 @@
                             <td>@Html.DisplayFor(modelItem => item.FechaVencimiento)</td>
                             <td>@Html.DisplayFor(modelItem => item.IdMarcaNavigation.Descripcion)</td>
                             <td>
-                                <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.IdMarca">Editar</a>
-                                <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.IdMarca">Eliminar</a>
+                                <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@item.NumeroTarjeta">Editar</a>
+                                <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.NumeroTarjeta">Eliminar</a>
                             </td>
                         </tr>
                     }

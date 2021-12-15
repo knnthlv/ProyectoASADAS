@@ -1,12 +1,28 @@
 ﻿<Properties StartupConfiguration="{DE553425-5F18-4951-B262-67D80FCBFB5D}|Default">
   <MonoDevelop.Ide.ItemProperties.Wizard PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsadasFront.API/Views/Averia/Index.cshtml">
+    <Files>
+      <File FileName="AsadasFront.API/Views/Averia/Index.cshtml" Line="1" Column="1" NotebookId="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FrontAsadas" expanded="True">
-            <Node name="AsadasFront.API" expanded="True" selected="True">
-              <Node name="Views" expanded="True" />
+            <Node name="AsadasFront.API" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Averia" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Comprobante" expanded="True" />
+                <Node name="Recibo" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Tarjeta" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Wizard" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Recibo" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -17,7 +33,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/Controllers/ReciboController.cs" relfile="AsadasFront.API/Controllers/ReciboController.cs" line="253" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

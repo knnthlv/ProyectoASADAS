@@ -51,13 +51,13 @@
                         <div class="form-row">
                             <div class="col-12 col-md-6 mb-3">
                                 <label>Nombre</label>
-                                <input asp-for="Nombre" class="form-control" maxlength="20" onkeypress="return /[a-z\s]/i.test(event.key)" pattern=".{2,20}" placeholder="Ej.: John Doe" required type="text">
+                                <input asp-for="Nombre" class="form-control" maxlength="=30" onkeypress="return /[a-z\s]/i.test(event.key)" pattern=".{2,30}" placeholder="Ej.: John Doe" required type="text">
                                 <div class="invalid-feedback">No cumple con los requisitos</div>
                                 <div class="valid-feedback">Formato válido</div>
                             </div>
                             <div class="col-12 col-md-6 mb-3">
                                 <label>Número</label>
-                                <input asp-for="NumeroTarjeta" class="form-control" maxlength="16" onkeypress="return /[0-9]/i.test(event.key)" pattern=".{15,16}" placeholder="Ej.: 1234567890" required type="text">
+                                <input asp-for="NumeroTarjeta" class="form-control" readonly type="text">
                                 <div class="invalid-feedback">No cumple con los requisitos</div>
                                 <div class="valid-feedback">Formato válido</div>
                             </div>

@@ -23,6 +23,7 @@ namespace AsadasFront.API.Models
         [DataType(DataType.Date)]
         public DateTime FechaVencimiento { get; set; }
         public int IdEstado { get; set; }
+        public string NumeroTarjeta { get; set; }
 
         public virtual Usuario CedulaNavigation { get; set; }
         public virtual Estado IdEstadoNavigation { get; set; }

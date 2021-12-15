@@ -59,7 +59,7 @@ namespace AsadasFront.API.Controllers
         // GET: Medidor/Create
         public IActionResult Create()
         {
-            ViewData["Cedula"] = new SelectList(servicios.GetAll(), "Cedula", "Nombre");
+            ViewData["Cedula"] = new SelectList(servicios.GetAll(), "Cedula","Cedula");
             return View();
         }
 

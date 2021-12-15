@@ -329,6 +329,7 @@ C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/D
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.dll
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/AsadasFront.API.Views.pdb
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.csproj.AssemblyReference.cache
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.GeneratedMSBuildEditorConfig.editorconfig
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfoInputs.cache
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/AsadasFront.API.AssemblyInfo.cs
@@ -372,6 +373,7 @@ C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/D
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Delete.cshtml.g.cs
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Edit.cshtml.g.cs
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Index.cshtml.g.cs
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Recibo/Pagar.cshtml.g.cs
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout - Copy.cshtml.g.cs
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs

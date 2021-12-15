@@ -32,12 +32,12 @@
                 <form asp-action="Create" novalidate>
                     <div class="form-row">
                         <div class="col-12 col-md-6 mb-3">
-                            <label>Cliente</label>
+                            <label>Usuario</label>
                             <select asp-for="Cedula" class="form-control" asp-items="ViewBag.Cedula"></select>
                         </div>
                         <div class="col-12 col-md-6 mb-3 was-validated">
                             <label>Nueva Dirección</label>
-                            <input asp-for="Direccion" class="form-control" maxlength="50" onkeypress="return /[a-z\s,]/i.test(event.key)" pattern=".{3,50}" placeholder="Ej.: San José, Goicoecoechea, Ipís" required type="text">
+                            <input asp-for="Direccion" class="form-control" maxlength="50" onkeypress="return /[a-z\s,]/i.test(event.key)" pattern=".{3,50}" placeholder="Ej.: San José, Goicoechea, Ipís" required type="text">
                             <div class="invalid-feedback">No cumple con los requisitos</div>
                             <div class="valid-feedback">Formato válido</div>
                         </div>

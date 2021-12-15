@@ -51,7 +51,7 @@
                         <div class="form-row">
                             <div class="col-12 col-md-6 mb-3">
                                 <label>Nombre</label>
-                                <input asp-for="Nombre" class="form-control" maxlength="20" onkeypress="return /[a-z\s]/i.test(event.key)" pattern=".{2,20}" placeholder="Ej.: John Doe" required type="text">
+                                <input asp-for="Nombre" class="form-control" maxlength="30" onkeypress="return /[a-z\s]/i.test(event.key)" pattern=".{2,30}" placeholder="Ej.: John Doe" required type="text">
                                 <div class="invalid-feedback">No cumple con los requisitos</div>
                                 <div class="valid-feedback">Formato válido</div>
                             </div>

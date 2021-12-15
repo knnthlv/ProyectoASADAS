@@ -1,0 +1,69 @@
+﻿@model AsadasFront.API.Models.Recibo
+
+@{
+    ViewData["Title"] = "Pagar";
+}
+
+<h1>Pagar</h1>
+
+<h4>Recibo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Pagar">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdRecibo" />
+            <div class="form-group">
+                <label asp-for="FechaCobro" class="control-label"></label>
+                <input asp-for="FechaCobro" class="form-control" readonly />
+                <span asp-validation-for="FechaCobro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Monto" class="control-label"></label>
+                <input asp-for="Monto" class="form-control" readonly />
+                <span asp-validation-for="Monto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Consumo" class="control-label"></label>
+                <input asp-for="Consumo" class="form-control" readonly />
+                <span asp-validation-for="Consumo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdMedidor" class="control-label"></label>
+                <input asp-for="IdMedidor" class="form-control" readonly />
+                <span asp-validation-for="IdMedidor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cedula" class="control-label"></label>
+                <input asp-for="Cedula" class="form-control" readonly />
+                <span asp-validation-for="Cedula" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaVencimiento" class="control-label"></label>
+                <input asp-for="FechaVencimiento" class="form-control" readonly />
+                <span asp-validation-for="FechaVencimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdEstado" class="control-label"></label>
+                <input asp-for="IdEstadoNavigation.Descripcion" class="form-control" readonly />
+                <span asp-validation-for="IdEstado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumeroTarjeta" class="control-label"></label>
+                <select asp-for="NumeroTarjeta" class="form-control" asp-items="ViewBag.NumeroTarjeta"></select>
+                <span asp-validation-for="NumeroTarjeta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Pagar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

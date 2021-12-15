@@ -78,3 +78,4 @@
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Release/netcoreapp3.1/AsadasFront.API.dll
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Release/netcoreapp3.1/AsadasFront.API.pdb
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Release/netcoreapp3.1/AsadasFront.API.genruntimeconfig.cache
+/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/AsadasFront.API/obj/Release/netcoreapp3.1/Razor/Views/Recibo/Pagar.cshtml.g.cs

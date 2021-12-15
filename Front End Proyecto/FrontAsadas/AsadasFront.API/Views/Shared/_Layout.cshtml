@@ -179,7 +179,6 @@
                                             <a class="sidebar-menu-button" asp-area="" asp-controller="Marca" asp-action="Index"><span class="sidebar-menu-text">Marcas</span></a>
                                         </li>
 
-
                                         <li class="sidebar-menu-item active">
                                             <a class="sidebar-menu-button" asp-area="" asp-controller="Medidor" asp-action="Index"><span class="sidebar-menu-text">Medidores</span></a>
                                         </li>
@@ -191,15 +190,31 @@
                                         <li class="sidebar-menu-item active">
                                             <a class="sidebar-menu-button" asp-area="" asp-controller="Usuario" asp-action="Index"><span class="sidebar-menu-text">Usuarios</span></a>
                                         </li>
+
+                                        <li class="sidebar-menu-item active">
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Averia" asp-action="Index"><span class="sidebar-menu-text">Averías</span></a>
+                                        </li>
+
+                                        <li class="sidebar-menu-item active">
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Comprobante" asp-action="Index"><span class="sidebar-menu-text">Comprobantes</span></a>
+                                        </li>
+
+                                        <li class="sidebar-menu-item active">
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Recibo" asp-action="Index"><span class="sidebar-menu-text">Recibos</span></a>
+                                        </li>
+
+                                        <li class="sidebar-menu-item active">
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Tarjeta" asp-action="Index"><span class="sidebar-menu-text">Tarjetas</span></a>
+                                        </li>
                                     }
                                     if (SessionHelper.GetRole(User) == "Cliente")
                                     {
                                         @*<li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Usuario" asp-action="Edit"><span class="sidebar-menu-text">Editar Perfil</span></a>
-                                        </li>*@
+                    <a class="sidebar-menu-button" asp-area="" asp-controller="Usuario" asp-action="Edit"><span class="sidebar-menu-text">Editar Perfil</span></a>
+                </li>*@
 
                                         <li class="sidebar-menu-item active">
-                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Averia" asp-action="Index" ><span class="sidebar-menu-text">Averías</span></a>
+                                            <a class="sidebar-menu-button" asp-area="" asp-controller="Averia" asp-action="Index"><span class="sidebar-menu-text">Averías</span></a>
                                         </li>
 
                                         <li class="sidebar-menu-item active">
@@ -218,15 +233,15 @@
                                 else
                                 {
 
-                                        <li class="nav-item mx-0 mx-lg-1">
-                                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" asp-area="" asp-controller="Login" asp-action="InicioSesion">Inicio Sesión</a>
-                                        </li>
+                                    <li class="nav-item mx-0 mx-lg-1">
+                                        <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" asp-area="" asp-controller="Login" asp-action="InicioSesion">Inicio Sesión</a>
+                                    </li>
 
-                                        <li class="nav-item mx-0 mx-lg-1">
-                                            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" asp-area="" asp-controller="Login" asp-action="Create">Registrarse</a>
-                                        </li>
+                                    <li class="nav-item mx-0 mx-lg-1">
+                                        <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" asp-area="" asp-controller="Login" asp-action="Create">Registrarse</a>
+                                    </li>
                                 }
-                                </ul>
+                            </ul>
 
                             </div>
                         </div>
