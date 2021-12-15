@@ -20,7 +20,6 @@ namespace AsadasFront.API.Models
         public DateTime FechaVencimiento { get; set; }
         public int IdMarca { get; set; }
         public string Cedula { get; set; }
-
         public virtual Usuario CedulaNavigation { get; set; }
         public virtual Marca IdMarcaNavigation { get; set; }
         //public virtual ICollection<Comprobante> Comprobante { get; set; }

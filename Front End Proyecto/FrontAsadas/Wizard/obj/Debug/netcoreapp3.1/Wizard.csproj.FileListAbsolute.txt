@@ -867,7 +867,6 @@ C:/GIT/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/Wizard/obj/Debug/netc
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/Wizard/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/Wizard/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/Wizard/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-/Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/Wizard/obj/Debug/netcoreapp3.1/Wizard.csproj.AssemblyReference.cache
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/Wizard/obj/Debug/netcoreapp3.1/Wizard.GeneratedMSBuildEditorConfig.editorconfig
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/Wizard/obj/Debug/netcoreapp3.1/Wizard.AssemblyInfoInputs.cache
 /Users/michaelsevilla/Documents/GitHub/SC_701_ProyectoFinal/Front End Proyecto/FrontAsadas/Wizard/obj/Debug/netcoreapp3.1/Wizard.AssemblyInfo.cs

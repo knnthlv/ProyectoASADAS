@@ -53,7 +53,7 @@
                     @foreach (var item in Model)
                     {
                     <tr>
-                        <td>@Html.DisplayFor(modelItem => item.IdComprobante)</td>
+                        <td><div class="badge badge-soft-dark"> @Html.DisplayFor(modelItem => item.IdComprobante)</div></td>
                         <td>@Html.DisplayFor(modelItem => item.CedulaNavigation.Nombre) @Html.DisplayFor(modelItem => item.CedulaNavigation.PrimerApellido) @Html.DisplayFor(modelItem => item.CedulaNavigation.SegundoApellido)</td>
                         <td>@Html.DisplayFor(modelItem => item.IdReciboNavigation.FechaCobro)</td>
                         <td>@Html.DisplayFor(modelItem => item.IdReciboNavigation.FechaVencimiento)</td>

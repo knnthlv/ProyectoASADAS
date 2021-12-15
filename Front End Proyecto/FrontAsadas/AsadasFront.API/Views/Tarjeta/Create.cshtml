@@ -4,53 +4,83 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
-
-<h4>Tarjeta</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="NumeroTarjeta" class="control-label"></label>
-                <input asp-for="NumeroTarjeta" class="form-control" />
-                <span asp-validation-for="NumeroTarjeta" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Nombre" class="control-label"></label>
-                <input asp-for="Nombre" class="form-control" />
-                <span asp-validation-for="Nombre" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Cvv" class="control-label"></label>
-                <input asp-for="Cvv" class="form-control" />
-                <span asp-validation-for="Cvv" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="FechaVencimiento" class="control-label"></label>
-                <input asp-for="FechaVencimiento" class="form-control" />
-                <span asp-validation-for="FechaVencimiento" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="IdMarca" class="control-label"></label>
-                <select asp-for="IdMarca" class="form-control" asp-items="ViewBag.IdMarca"></select>
-            </div>
-            <div class="form-group">
-                <label asp-for="Cedula" class="control-label"></label>
-                <select asp-for="Cedula" class="form-control" asp-items="ViewBag.Cedula"></select>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+<!-- Breadcrumb -->
+<div class="container-fluid  page__heading-container">
+    <div class="page__heading">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mb-0">
+                <li class="breadcrumb-item">
+                    <i class="material-icons icon-20pt">home</i>
+                <li class="breadcrumb-item active"> Tarjetas </li>
+                <li class="breadcrumb-item active"> Agregar </li>
+            </ol>
+        </nav>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<!-- Container blanco -->
+<div class="container-fluid page__container">
+    <div class="card card-form">
+        <div class="row no-gutters">
+            <!-- Requisitos a la izquierda -->
+            <div class="col-lg-4 card-body">
+                <p><strong class="headings-color">Requisitos</strong></p>
+                <p class="text-muted">
+                    Nombre<br>
+                    De 2 a 20 letras: <span class="badge badge-pill badge-success">✔</span><br><br>
+                    Número<br>
+                    De 15 a 16 números: <span class="badge badge-pill badge-success">✔</span><br><br>
+                    CVV<br>
+                    De 3 a 4 números: <span class="badge badge-pill badge-success">✔</span>
+                </p>
+            </div>
+            <!-- Formulario a la derecha -->
+            <div class="col-lg-8 card-form__body card-body">
+                <form asp-action="Create" novalidate>
+                    <div class="form-row">
+                        <div class="col-12 col-md-6 mb-3">
+                            <label>Usuario</label>
+                            <select asp-for="Cedula" class="form-control" asp-items="ViewBag.Cedula"></select>
+                        </div>
+                        <div class="col-12 col-md-6 mb-3">
+                            <label>Marca</label>
+                            <select asp-for="IdMarca" class="form-control" asp-items="ViewBag.IdMarca"></select>
+                        </div>
+                    </div>
+                    <div class="was-validated">
+                        <div class="form-row">
+                            <div class="col-12 col-md-6 mb-3">
+                                <label>Nombre</label>
+                                <input asp-for="Nombre" class="form-control" maxlength="20" onkeypress="return /[a-z\s]/i.test(event.key)" pattern=".{2,20}" placeholder="Ej.: John Doe" required type="text">
+                                <div class="invalid-feedback">No cumple con los requisitos</div>
+                                <div class="valid-feedback">Formato válido</div>
+                            </div>
+                            <div class="col-12 col-md-6 mb-3">
+                                <label>Número</label>
+                                <input asp-for="NumeroTarjeta" class="form-control" maxlength="16" onkeypress="return /[0-9]/i.test(event.key)" pattern=".{15,16}" placeholder="Ej.: 1234567890" required type="text">
+                                <div class="invalid-feedback">No cumple con los requisitos</div>
+                                <div class="valid-feedback">Formato válido</div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="col-12 col-md-6 mb-3">
+                                <label>Expiración</label>
+                                <input asp-for="FechaVencimiento" class="form-control" required>
+                                <div class="invalid-feedback">No cumple con los requisitos</div>
+                                <div class="valid-feedback">Formato válido</div>
+                            </div>
+                            <div class="col-12 col-md-6 mb-3">
+                                <label>CVV</label>
+                                <input asp-for="Cvv" class="form-control" maxlength="4" onkeypress="return /[0-9]/i.test(event.key)" pattern=".{3,4}" placeholder="Ej.: 111" required type="text">
+                                <div class="invalid-feedback">No cumple con los requisitos</div>
+                                <div class="valid-feedback">Formato válido</div>
+                            </div>
+                        </div>
+                    </div>
+                    <a asp-action="Index" class="btn btn-light"> Cancelar </a>
+                    <button class="btn btn-success" type="submit"> Agregar </button>
+                </form>
+            </div>
+        </div>
+    </div>
 </div>
-
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-}
