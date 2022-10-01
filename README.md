@@ -1,6 +1,9 @@
 # SC_701_ProyectoFinal
 * Página: https://asada.azurewebsites.net
 
+##Justificación
+* Proyecto creado para plantear una página Web que ofrece una plataforma para la administración de los procesos en las ASADAS en Costa Rica.
+
 ## Atlassian
 * Jira: https://asadasfidelitas.atlassian.net/jira/software/projects/AS/boards/1/backlog
 * Confluence: https://asadasfidelitas.atlassian.net/wiki/spaces/ASADAS/pages/196610/Meetings
