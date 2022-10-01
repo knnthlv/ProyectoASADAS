@@ -1,7 +1,7 @@
 # SC_701_ProyectoFinal
 * Página: https://asada.azurewebsites.net
 
-##Justificación
+## Justificación
 * Proyecto creado para plantear una página Web que ofrece una plataforma para la administración de los procesos en las ASADAS en Costa Rica.
 
 ## Atlassian
